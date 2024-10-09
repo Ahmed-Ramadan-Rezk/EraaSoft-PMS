@@ -1,0 +1,61 @@
+[
+    {
+        "mission": {
+            "id": 1,
+            "title": "Our Mission",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et ipsum corporis tempore atque, dolor totam! Adipisci impedit quod sapiente suscipit? Vitae fugit, animi quam quaerat aspernatur vel dolorum non temporibus porro repellendus placeat quas labore maiores sint consectetur nemo pariatur tempore similique explicabo ad. Ipsam, recusandae esse dignissimos sapiente dolor pariatur voluptatem voluptate at commodi veritatis totam harum, nostrum quis maiores odio temporibus optio assumenda omnis! Repellat et nisi architecto reprehenderit? Quos, reprehenderit totam recusandae dolorum architecto facilis dolor ratione deserunt fugiat expedita optio explicabo rem ipsum minima veritatis nisi aperiam perspiciatis ad repellendus cupiditate, quo sint laboriosam cum? Veritatis ."
+        }
+    },
+    {
+        "vision": {
+            "id": 2,
+            "title": "Our Vission",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et ipsum corporis tempore atque, dolor totam! Adipisci impedit quod sapiente suscipit? Vitae fugit, animi quam quaerat aspernatur vel dolorum non temporibus porro repellendus placeat quas labore maiores sint consectetur nemo pariatur tempore similique explicabo ad. Ipsam, recusandae esse dignissimos sapiente dolor pariatur voluptatem voluptate at commodi veritatis totam harum, nostrum quis maiores odio temporibus optio assumenda omnis! Repellat et nisi architecto reprehenderit? Quos, reprehenderit totam recusandae dolorum architecto facilis dolor ratione deserunt fugiat expedita optio explicabo rem ipsum minima veritatis nisi aperiam perspiciatis ad repellendus cupiditate, quo sint laboriosam cum? Veritatis ."
+        }
+    },
+    {
+        "goals": {
+            "id": 3,
+            "title": "Our Goals",
+            "goal": [
+                {
+                    "id": 1,
+                    "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, itaque."    
+                },
+                {
+                    "id": 2,
+                    "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, itaque."    
+                },
+                {
+                    "id": 3,
+                    "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, itaque."    
+                },
+                {
+                    "id": 4,
+                    "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, itaque."    
+                },
+                {
+                    "id": 5,
+                    "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, itaque."    
+                },
+                {
+                    "id": 6,
+                    "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, itaque."    
+                },
+                {
+                    "id": 7,
+                    "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, itaque."    
+                },
+                {
+                    "id": 8,
+                    "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, itaque."    
+                },
+                {
+                    "id": 9,
+                    "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, itaque."    
+                }
+            ]
+        }
+        
+    }
+]

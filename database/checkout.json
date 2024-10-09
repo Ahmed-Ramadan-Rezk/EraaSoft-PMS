@@ -1,0 +1,27 @@
+[
+    {
+        "name": "cohukiz",
+        "email": "mm5922928@gmail.com",
+        "address": "Mohamed saad 8 shobra el kheimah",
+        "phone": "01119320775",
+        "note": "Near to Alradwan mosque 25 street",
+        "orders": [
+            {
+                "id": 670371465564,
+                "name": "Horizon Perfume",
+                "price": 750,
+                "quantity": 2,
+                "date": "09-10-2024"
+            },
+            {
+                "id": 670379862,
+                "name": "Unisex perfume",
+                "price": 690,
+                "quantity": 1,
+                "date": "09-10-2024"
+            }
+        ],
+        "total": 2190,
+        "date": "09-10-2024"
+    }
+]

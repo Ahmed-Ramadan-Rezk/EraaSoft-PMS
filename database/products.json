@@ -1,0 +1,92 @@
+[
+    {
+        "id": 67036,
+        "name": "Sauvage 460",
+        "quantity": 5,
+        "price": 1000,
+        "compare": 1100,
+        "isSale": true,
+        "image": "67036c35ba46f0.88093881.webp",
+        "date": "07-10-2024"
+    },
+    {
+        "id": 67036,
+        "name": "Best perfumes for women of all time",
+        "quantity": 5,
+        "price": 7500,
+        "compare": 8000,
+        "isSale": false,
+        "image": "67036d097b2c30.47064432.webp",
+        "date": "07-10-2024"
+    },
+    {
+        "id": 670371465564,
+        "name": "Horizon Perfume",
+        "quantity": 5,
+        "price": 750,
+        "compare": 800,
+        "isSale": true,
+        "image": "67037146553c20.86404322.jpg",
+        "date": "07-10-2024"
+    },
+    {
+        "id": 6703720000000,
+        "name": "Horizon Perfume",
+        "quantity": 5,
+        "price": 650,
+        "compare": 700,
+        "isSale": false,
+        "image": "670372e7d43f86.17885069.jpg",
+        "date": "07-10-2024"
+    },
+    {
+        "id": 6703788254,
+        "name": "AG Perfume",
+        "quantity": 5,
+        "price": 300,
+        "compare": 350,
+        "isSale": true,
+        "image": "6703788254a2d3.65794165.png",
+        "date": "07-10-2024"
+    },
+    {
+        "id": 670378,
+        "name": "Fragrance World SUITS 100ml Eau De Parfum",
+        "quantity": 7,
+        "price": 900,
+        "compare": 970,
+        "isSale": false,
+        "image": "670378f53f97f3.79433805.webp",
+        "date": "07-10-2024"
+    },
+    {
+        "id": 670379862,
+        "name": "Unisex perfume",
+        "quantity": 13,
+        "price": 690,
+        "compare": 750,
+        "isSale": false,
+        "image": "670379862d3174.43783603.jpg",
+        "date": "07-10-2024"
+    },
+    {
+        "id": 67037,
+        "name": "The Best Smelling Perfume for Women",
+        "quantity": 17,
+        "price": 990,
+        "compare": 1100,
+        "isSale": true,
+        "image": "67037a2b7d3aa9.47672362.jpg",
+        "date": "07-10-2024"
+    },
+    {
+        "id": 0,
+        "name": "Aileen Charles",
+        "quantity": 635,
+        "price": 971,
+        "compare": 913,
+        "isSale": true,
+        "image": "6705e563abef57.53470660.webp",
+        "date": "09-10-2024"
+    }
+]
